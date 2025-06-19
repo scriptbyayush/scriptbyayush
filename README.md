@@ -7,7 +7,6 @@
 
 ---
 
----
 
 ### 🛠️ Tech Stack
 
@@ -37,10 +36,10 @@
 
 ---
 
-### 📊 GitHub Statistics
 
-#### 📈 GitHub Stats  
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptbyayush&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptbyayush&layout=compact&theme=radical)
+
+---
 
 #### 🧮 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scriptbyayush&theme=react-dark)
