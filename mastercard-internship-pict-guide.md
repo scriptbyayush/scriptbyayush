@@ -149,7 +149,7 @@ Candidates are advised to treat this as a **reference guide** and stay updated w
 
 ## 13. Contact for Queries
 
-For any further doubts or discussions, you can connect via LinkedIn:
+For any further queries or discussions, you may connect with me via LinkedIn. Due to a tight schedule, I may respond when time permits:
 
 **Profile:** [https://www.linkedin.com/in/vaidyaayush/](https://www.linkedin.com/in/vaidyaayush/)
 
